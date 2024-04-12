@@ -8,7 +8,7 @@ O usuário deve ter um nome de usuário e senha válidos.
 
 ## Passos:
 1. Navegue até https://www.saucedemo.com/v1/
-2. Insira o nome de usuário e a senha nos campos apropriados.
+2. Insira o nome de usuário e a senha nos campos apropriados(Nome de Usuário: standard_user)(Senha: secret_sauce).
 3. Clique no botão 'Login'.
 4. Verifique se o login foi bem-sucedido.
 5. Navegue até a página do produto.
